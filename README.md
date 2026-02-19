@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a Software Engineer with a BSc Information and Knowledge Systems Degree at the University of Pretoria. I have a strong foundation in software development principles and enjoy building practical solutions with multiple programming languages. I'm passionate about automation and creating efficient systems.
+I'm a Software Engineer with a BSc Information and Knowledge Systems Degree from the University of Pretoria. I have a strong foundation in software development principles and enjoy building practical solutions with multiple programming languages. I'm passionate about automation and creating efficient systems.
 
 ## My Skills 🧠
 
