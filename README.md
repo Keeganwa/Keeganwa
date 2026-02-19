@@ -30,5 +30,4 @@ I'm a Software Engineer with a BSc Information and Knowledge Systems Degree from
 - [GitHub](https://github.com/Keeganwa)
 - [GitHub - University](https://github.com/k33gan123)
 - Email: keeganwalker629@gmail.com
-- [My CV]([https://github.com/](https://github.com/Keeganwa/Keeganwa/blob/main/software.jpg))
 - Location: Gauteng, South Africa
