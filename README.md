@@ -4,10 +4,7 @@
 
 ## About Me 🚀
 
-I'm an aspiring Software Engineer currently studying Information and Knowledge Systems at the University of Pretoria. I have a strong foundation in software development principles and enjoy building practical solutions with multiple programming languages. I'm passionate about automation and creating efficient systems.
-
-- 🌱 Currently learning: Advanced web development
-- 🎓 Graduating: 2025
+I'm a Software Engineer with a BSc Information and Knowledge Systems Degree at the University of Pretoria. I have a strong foundation in software development principles and enjoy building practical solutions with multiple programming languages. I'm passionate about automation and creating efficient systems.
 
 ## My Skills 🧠
 
